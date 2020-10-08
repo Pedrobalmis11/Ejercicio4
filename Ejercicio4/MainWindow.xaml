@@ -6,6 +6,7 @@
         xmlns:local="clr-namespace:Ejercicio4"
         mc:Ignorable="d"
         Title="Caracteres limitados"
+        Icon="heading_text_1.ico"
         Height="423"
         Width="619">
     <Grid>
